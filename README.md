@@ -1,5 +1,6 @@
 # Gala Groceries Supply Chain Optimization Project
 
+![Gala](https://plannera.com/wp-content/uploads/2021/01/Descomplicando-o-Supply-Chain.png)
 Welcome to the README for the Gala Groceries Supply Chain Optimization Project! In this document, we'll provide an overview of the project, its objectives, technologies used, and how it aims to address the supply chain challenges faced by Gala Groceries.
 
 ## Project Overview
